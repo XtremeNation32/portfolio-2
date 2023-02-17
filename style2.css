@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Karla', sans-serif;
+  text-align: center;
+  font-size: large;
+  color: white;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(sand.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 35px;
+    padding-left: 8%;
+    padding-right: 8%;}
+#soon{font-size: xx-large;}
